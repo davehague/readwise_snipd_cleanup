@@ -50,3 +50,7 @@ Feel free to open issues or submit pull requests to improve this project!
 ## License
 [MIT](LICENSE)
 
+## Links
+[Readwise API](https://readwise.io/api_deets)
+[OpenRouter Docs](https://openrouter.ai/docs/quickstart)
+
